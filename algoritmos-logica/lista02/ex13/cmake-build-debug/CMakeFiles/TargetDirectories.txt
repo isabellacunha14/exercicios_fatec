@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/exercicios_fatec/algoritmos-logica/lista02/ex13/cmake-build-debug/CMakeFiles/ex13.dir
+C:/Users/user/Desktop/exercicios_fatec/algoritmos-logica/lista02/ex13/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/exercicios_fatec/algoritmos-logica/lista02/ex13/cmake-build-debug/CMakeFiles/rebuild_cache.dir

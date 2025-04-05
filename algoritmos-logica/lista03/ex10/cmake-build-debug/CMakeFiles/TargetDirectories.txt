@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/CADE A LISTA 3 Q EU FIZ AQUI PONTO DE INTERROGACAO/ex10/cmake-build-debug/CMakeFiles/ex10.dir
+C:/Users/user/Desktop/CADE A LISTA 3 Q EU FIZ AQUI PONTO DE INTERROGACAO/ex10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/CADE A LISTA 3 Q EU FIZ AQUI PONTO DE INTERROGACAO/ex10/cmake-build-debug/CMakeFiles/rebuild_cache.dir

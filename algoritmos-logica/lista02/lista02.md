@@ -1,6 +1,6 @@
 
 # 📘 Exercícios de Lógica de Programação em Python e C 
-Professor Maromo, [Acesse o GitHub](https://github.com/maromo71)
+Professor Maromo, [Acesse o seu GitHub](https://github.com/maromo71)
 
 ## 🔹 Introdução
 

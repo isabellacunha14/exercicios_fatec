@@ -20,6 +20,7 @@ Este repositório foi criado para:
 - Compartilhar conhecimento com quem também está estudando programação
 
 ---
+## 📌 As pastas estão organizadas por disciplina, linguagem e, quando necessário, por listas de exercícios específicas.
 
 ## 📁 Estrutura do repositório
 exercicios-faculdade/
@@ -41,8 +42,6 @@ exercicios-faculdade/
 │
 └── README.md
 
-
-## 📌 As pastas estão organizadas por disciplina, linguagem e, quando necessário, por listas de exercícios específicas.
 
 ## 🤝 Contribuições
 Este repositório é pessoal, mas sugestões e ideias são sempre bem-vindas!

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo 17 - Formularios II</title>
+    <style>
+         fieldset {background-color: aquamarine}
+    </style>
+</head>
+<body bgcolor="green">
+    <form><h1>Formulário do Aluno</h1></form>
+    <fieldset> <!--grupo-->
+        <legend><b><h3>Dados pessoais</h3></b></legend><!--rotulo-->
+        <label for="nome">Nome:</label> <!--label-->
+        <input type="text">
+        <label>Senha provisória</label>
+        <input type="password" size="5" maxlength="5"> <br>
+        <label for="sexo">Sexo:</label> <!--label-->
+        <input type="radio" name="sexo">Masculino
+        <input type="radio" name="sexo" checked >Feminino <br>
+        <p>
+            <label>Escolha o seu curso</label>
+            <select name="curso">
+                <optgroup label="Exatas">
+                    <option >ADS</option>
+                    <option >MECATRONICA</option>
+                    <option >Matematica</option>
+                </optgroup>
+                <optgroup label="Humanas">
+                    <option >HISTORIA</option>
+                    <option >GEOGRAFIA</option>
+                    <option >FILOSOFIA</option>
+                </optgroup>
+            </select>
+        </p>
+    </fieldset>
+    <fieldset>
+        <legend><b><h3>Dados Adicionais</h3></b></legend>
+        <label>RA:</label>
+        <input type="text">
+        <label>Data de inicio do curso</label>
+        <input type="date"> <br>
+        <label>Escolha a sua cor favorita</label>
+        <input type="color"> <br>
+        <label>Escolha o mês para suas férias</label>
+        <input type="month"> <br>
+        <label>Informe o quanto você está feliz</label>
+        <input type="range" min="1" max="10">
+    </fieldset> 
+    <fieldset>
+        <input TYPE="reset" VALUE="LIMPAR">
+        <input TYPE="submit" VALUE="ENVIAR">
+    </fieldset>
+</body>
+</html>

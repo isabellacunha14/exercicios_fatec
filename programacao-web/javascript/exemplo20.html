@@ -1,0 +1,16 @@
+<script type="text/javascript"> 
+    var num1=parseFloat("5")+"<br>"; // considerou apenas um numero
+    var num2=parseFloat("5.00")+"<br>"; // ignorou os zero, pos ponto
+    var num3=parseFloat("5.11")+"<br>"; // converteu para real
+    var num4=parseFloat("14 25 11")+"<br>"; //  considerou o primeiro numero, até o espaço
+    var num5=parseFloat("  20  ")+"<br>"; //  ignorou os espaços 
+    var num6=parseFloat("20 anos")+"<br>";  //  ignorou os espaços 
+    var num7=parseFloat(" tenho 20 anos")+"<br>"; // not a Number = NaN
+    var num8=parseFloat("100.",5)+"<br>"; // ignorou o ponto e o numero fora das aspas
+    var num9=parseFloat("0050")+"<br>"; // ignorou os zeros a esquerda
+    var num10=parseFloat("0x50")+"<br>"; // nao converteu o hexadecimal, pegou o primeiro 0 e o resto ignorou
+// juntando os valores; contatenar
+    var resultado = num1+num2+num3+num4+num5+num6+num7+num8+num9+num10;
+
+    document.write(resultado);
+</script>

@@ -1,0 +1,12 @@
+<script type="text/javascript">
+    let alunos=[
+        {nome:"João", idade:18},
+        {nome:"Maria", idade:24},
+        {nome:"Isabella", idade:27},
+    ] //colecao, arrays, vetores e matrizes;
+    let aluno=alunos.find(function(aluno){ //find localiza/busca 
+        return aluno.nome == "João" && aluno.idade=='21'; // && pode procurar mais de uma coisa
+    });
+
+    document.write(aluno.nome+" tem "+aluno.idade+" anos.");
+</script>

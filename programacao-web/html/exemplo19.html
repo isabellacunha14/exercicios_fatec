@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carteirinha</title>
+</head>
+<body>
+    <form>
+        <table border="2" bordercolor="black" bgcolor="black" align="center">
+            <center><caption>Carteirinha de Estudante</caption></center>
+            <tr>
+                <td bgcolor="white" rowspan="5" style="text-align: center; vertical-align: middle;">
+                    <img src="menina.avif" alt="Foto do Aluno" width="100" height="100"><br>
+                    <img src="logo.png" alt="Logo" width="80" height="80">
+
+                </td>
+                <td bgcolor="white"><label>Aluno:</label></td>
+                <td><input type="text" name="aluno" value="Eloá Martins" size="40" readonly></td>
+            </tr>
+            <tr>
+                <td bgcolor="white"><label>RA:</label></td>
+                <td><input type="text" name="RA" value="214234234" size="40" readonly></td>
+            </tr>
+            <tr>
+                <td bgcolor="white"><label>Curso:</label></td>
+                <td><input type="text" name="curso" value="ADS" size="40" readonly></td>
+            </tr>
+            <tr>
+                <td bgcolor="white"><label>Semestre</label></td>
+                <td><input type="text" name="semestre" value="1 Semestre" size="40" readonly></td>
+            </tr>
+            <tr>
+                <td bgcolor="white"><label>Local</label></td>
+                <td><input type="text" name="local" value="Bloco A" size="40" readonly></td>
+            </tr>
+        </table>
+        <hr>
+        <center>
+            <input type="reset" value="Limpar">
+            <input type="submit" value="Gravar">
+        </center>
+    </form>
+</body>
+</html>

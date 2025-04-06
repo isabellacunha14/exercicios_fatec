@@ -23,6 +23,8 @@ Este repositório foi criado para:
 ## 📌 As pastas estão organizadas por disciplina, linguagem e, quando necessário, por listas de exercícios específicas.
 
 ## 📁 Estrutura do repositório
+
+```bash
 exercicios-faculdade/
 │
 ├── algoritmos-logica-programacao/
@@ -41,6 +43,7 @@ exercicios-faculdade/
 │   └── javascript/
 │
 └── README.md
+```
 
 
 ## 🤝 Contribuições

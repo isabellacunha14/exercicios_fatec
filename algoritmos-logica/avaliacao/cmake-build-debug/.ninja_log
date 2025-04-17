@@ -1,0 +1,6 @@
+# ninja log v6
+87	220	7665447990342393	avaliacao.exe	10ded2447f77cb37
+3	86	7665447989495749	CMakeFiles/avaliacao.dir/main.c.obj	a83f043d2e73b103
+9	263	7665459869801057	build.ninja	65fb1adc7ef41fc6
+24	92	7665450166082708	CMakeFiles/avaliacao.dir/questao1.c.obj	c6df36738ca160c4
+8	79	7665456046140173	CMakeFiles/avaliacao.dir/questao3.c.obj	f5f9593bc02f29db

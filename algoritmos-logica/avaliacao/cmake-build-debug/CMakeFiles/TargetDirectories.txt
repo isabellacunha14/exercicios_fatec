@@ -1,0 +1,3 @@
+C:/Users/aluno/Desktop/untitled/avaliacao/cmake-build-debug/CMakeFiles/avaliacao.dir
+C:/Users/aluno/Desktop/untitled/avaliacao/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aluno/Desktop/untitled/avaliacao/cmake-build-debug/CMakeFiles/rebuild_cache.dir

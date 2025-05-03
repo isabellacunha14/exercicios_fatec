@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/exercicios_fatec/algoritmos-logica/avaliacao/lista complementar 2/exercicios3_p1/cmake-build-debug/CMakeFiles/exercicios3_p1.dir
+C:/Users/user/Desktop/exercicios_fatec/algoritmos-logica/avaliacao/lista complementar 2/exercicios3_p1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/exercicios_fatec/algoritmos-logica/avaliacao/lista complementar 2/exercicios3_p1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

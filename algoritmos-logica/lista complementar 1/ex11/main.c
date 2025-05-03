@@ -1,7 +1,7 @@
  #include <stdio.h>
 
 int main(void) {
-    int horas, meteoros, cont;
+    int horas, meteoros, cont=0;
 
 
     printf("Digite a quantidade de horas: ");
@@ -12,10 +12,12 @@ int main(void) {
         scanf("%d", &meteoros);
         cont += meteoros;
 
-        printf("Hora %d: %d meteoros ", i, meteoros);
+        printf("Hora %d: ", i);
         for (int j = 1; j <= meteoros; j++) {
             printf("*");
+
         }
+        printf(" (%d meteoros)", meteoros);
         printf("\n");
 
     }

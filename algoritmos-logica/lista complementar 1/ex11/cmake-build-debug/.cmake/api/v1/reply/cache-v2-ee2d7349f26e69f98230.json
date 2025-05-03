@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/user/exemplos.labs/c/ex11/cmake-build-debug"
+			"value" : "c:/Users/user/Desktop/exercicios_fatec/algoritmos-logica/lista complementar 1/ex11/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/user/exemplos.labs/c/ex11/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/user/Desktop/exercicios_fatec/algoritmos-logica/lista complementar 1/ex11/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/user/exemplos.labs/c/ex11"
+			"value" : "C:/Users/user/Desktop/exercicios_fatec/algoritmos-logica/lista complementar 1/ex11"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1147,7 +1147,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/user/exemplos.labs/c/ex11/cmake-build-debug"
+			"value" : "C:/Users/user/Desktop/exercicios_fatec/algoritmos-logica/lista complementar 1/ex11/cmake-build-debug"
 		},
 		{
 			"name" : "ex11_IS_TOP_LEVEL",
@@ -1171,7 +1171,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/user/exemplos.labs/c/ex11"
+			"value" : "C:/Users/user/Desktop/exercicios_fatec/algoritmos-logica/lista complementar 1/ex11"
 		}
 	],
 	"kind" : "cache",

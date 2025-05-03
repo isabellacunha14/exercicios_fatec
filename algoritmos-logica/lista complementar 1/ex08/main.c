@@ -2,8 +2,7 @@
 
 int main(void) {
     int num;
-
-    printf("Digite um numero: ");
+ 
     scanf("%d", &num);
 
     for (int i = num; i >= 1; i--) {

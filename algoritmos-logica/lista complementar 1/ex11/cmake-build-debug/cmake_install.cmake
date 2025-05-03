@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/user/exemplos.labs/c/ex11
+# Install script for directory: C:/Users/user/Desktop/exercicios_fatec/algoritmos-logica/lista complementar 1/ex11
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Users/user/exemplos.labs/c/ex11/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/user/Desktop/exercicios_fatec/algoritmos-logica/lista complementar 1/ex11/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
